@@ -1,0 +1,2 @@
+# PIP_News
+这是一个自动化的AI开源项目新闻汇报工具，可以抓取GitHub和Hugging Face上的热门和最新项目，使用DeepSeek AI进行项目解读，并将结果通过邮件发送给指定收件人。
