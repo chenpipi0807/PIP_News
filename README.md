@@ -63,6 +63,4 @@ python main.py --now --schedule --hour 9 --minute 0
 - 确保发件邮箱的SMTP服务已开启，且授权码正确
 - 首次运行可能需要较长时间，因为需要从网络获取数据并调用API
 
-## 作者
 
-AI开源项目新闻汇报工具团队
